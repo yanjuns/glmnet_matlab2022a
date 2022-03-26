@@ -1,6 +1,6 @@
 # Glmnet recomplied for Matlab 2022a in Windows 10 64bit
 This package was orginally downloaded from https://github.com/junyangq/glmnet-matlab. I then recomplied the orignal package for MATLAB 2022a in Windows 10.  
-The recomplied package runs smoothly. In particular, it solves the issue that the orginal package makes connected workers in parallel computing to crash and abort. This recomplied package can be plug-n-play for the above condition, but has not been tested for other conditions. 
+The recomplied package runs smoothly. In particular, it solves the issue that the orginal package makes connected workers in parallel computing to crash and abort. This recomplied package can be plug-n-play for the above condition, but has not been tested in other conditions. 
 
 # Process to recomplie glmnet
 1. Install [Microsoft Visual Studio Community 2019](https://docs.microsoft.com/en-us/visualstudio/releases/2019/release-notes) (select Desktop development with C++)
